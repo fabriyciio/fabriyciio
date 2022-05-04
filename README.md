@@ -1,10 +1,5 @@
 ## Olá! Eu sou o Fabrício André...
 
-- 🔭 Hoje Eu trabalho atualmente com refrigeração mas estou em busca de opotunidade de me ingressar na área de TI.
-- 🌱 Cusando Análise Desenvolvimento de sistema, focado na parte de Back-end
-- 📫 Contate-me no email: leitefabricio978@hotmail.com
-- 😄 Pronouns: ele/dele
-
 
 <div align="center">
   <a href="https://github.com/fabriyciio">
