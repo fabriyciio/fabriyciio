@@ -2,6 +2,7 @@
 - 🔭 Hoje Eu trabalho atualmente com refrigeração mas estou em busca de opotunidade de me ingressar na área de TI.
 - 🌱 Cusando Análise Desenvolvimento de sistema, mas focado na parte de Back-end
 - 📫 Contate-me no email: leitefabricio978@hotmail.com
+- 
 <div align="center">
   <a href="https://github.com/fabriyciio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriyciio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
