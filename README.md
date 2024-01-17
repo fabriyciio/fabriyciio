@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Fabrício André...
 - 🔭 Hoje Eu trabalho atualmente com refrigeração mas estou em busca de opotunidade de me ingressar na área de TI.
-- 🌱 Graduado em Análise Desenvolvimento de sistema pela a Uninassau, mas focado na parte de Back-end.
+- 🌱 Graduado em Análise Desenvolvimento de sistema pela a Uninassau, mas focado na parte de Front-end.
 - 📫 Contate-me no email: leitefabricio978@hotmail.com
 
 <div align="center">
